@@ -1,6 +1,8 @@
-## Batch Processing using Kubernetes and Cloudmesh
+# Batch Processing using Kubernetes and Cloudmesh
 
-**Jim Nelson**  **[fa19-516-161](https://github.com/cloudmesh-community/fa19-516-161)** [Batch Processing using Kubernetes and Cloudmesh]( https://github.com/cloudmesh-community/fa19-516-161/edit/master/project/report.md )
+Jim Nelson, [fa19-516-161](https://github.com/cloudmesh-community/fa19-516-161)** [Batch Processing using Kubernetes and Cloudmesh]( https://github.com/cloudmesh-community/fa19-516-161/edit/master/project/report.md )
+
+:o2: please learn markdown
 
 **Abstract**
 
